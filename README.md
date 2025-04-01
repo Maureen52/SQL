@@ -1,2 +1,2 @@
 # SQL
-wORKS DONE in sql
+These are works done in SQL
